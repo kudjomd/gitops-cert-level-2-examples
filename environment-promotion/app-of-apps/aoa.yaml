@@ -19,7 +19,7 @@ spec:
    
     # directory
     directory:
-      recurse: false
+      recurse: true
   # Destination cluster and namespace to deploy the application
   destination:
     server: https://kubernetes.default.svc
